@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background: black;
+    display: flex;
+    justify-content: center;
+}
+
+.placebutton {
+    background: white;
+    height: 500px;
+    margin: 20px 100px 20px 100px;
+}
+
+.footer {
+    background: black;
+    color: #858585;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.search {
+    border-radius: 100px;
+}
+
+.button {
+    border-radius: 100px;
+}
+
+.logo {
+    width: 250px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.bg-table {
+    background-color: green;
+}
